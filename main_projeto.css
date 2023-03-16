@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header .container {
+    background-color: #0faa23;
+    padding: 16px 0;
+    color: #fff;
+}
